@@ -1,8 +1,8 @@
-# Hey! Myself Taha Hassan
+ Hey! Myself Taha Hassan
 
 ML/DL Engineer & Frontend Developer.
 
-I build end-to-end machine learning pipelines and ship them as usable products —
+I build end-to-end machine learning pipelines and ship them as usable products
 not just notebooks. My frontend background means I can take a model from training
 to a working UI without handing off to anyone.
 
@@ -14,7 +14,7 @@ to a working UI without handing off to anyone.
 Python · Scikit-learn · XGBoost · TensorFlow · Keras · PyTorch · Pandas · NumPy · Streamlit · MLflow
 
 **Frontend**
-React · Next.js · TypeScript · Tailwind · Three.js · GSAP · Vite
+React · Next.js · TypeScript · Tailwind · Three.js · GSAP · Vite · Framer Motion
 
 **Tools & Infra**
 AWS · Docker · FastAPI · Flask · Supabase · PostgreSQL · Git
